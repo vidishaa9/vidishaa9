@@ -33,40 +33,71 @@
 
 <table>
 <tr>
-<td width="50%">
 
-### 🔹 [ResolveHub — AI Complaint Management](https://github.com/vidishaa9)
-> Full-stack complaint system with user authentication, priority-based ticket routing and clean RESTful APIs built end to end.
+<td width="50%" valign="top">
+
+### 🔹 [InterviewIQ — AI Resume & Interview Platform](https://github.com/vidishaa9/InterviewIQ)
+
+> AI-powered interview preparation platform that analyzes resumes, extracts skills, generates personalized interview questions, conducts mock interviews, provides AI feedback, and tracks interview performance.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Apache PDFBox](https://img.shields.io/badge/Apache_PDFBox-D22128?style=flat-square)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔹 [ResolveHub — AI Complaint Management](https://github.com/vidishaa9/ResolveHub)
+
+> Full-stack complaint management system with JWT authentication, AI-powered complaint categorization, priority prediction, and role-based access.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
 
 </td>
-<td width="50%">
 
-### 🔹 [NexusCart — E-Commerce Backend](https://github.com/vidishaa9)
-> Scalable e-commerce system handling products, users, orders and transactions with an optimized relational schema.
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔹 [NexusCart — E-Commerce Backend](https://github.com/vidishaa9/NexusCart)
+
+> Scalable e-commerce backend supporting authentication, product management, orders, and optimized relational database design.
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🔹 [Employee Management System](https://github.com/vidishaa9)
-> CRUD-based employee records app with a clean relational schema, JDBC connectivity and solid OOP architecture.
+<td width="50%" valign="top">
+
+### 🔹 [Employee Management System](https://github.com/vidishaa9/Employee-Management-System)
+
+> CRUD-based employee management application built using Java, JDBC, and MySQL with clean OOP architecture.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-<td width="50%">
+
+</tr>
+</table>
 
 <!-- ### 🔹 More Coming Soon...
  Always building something new. Watch this space.
@@ -97,6 +128,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=Hibernate\&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -113,6 +145,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge\&logo=swagger\&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+
 
 </div>
 
@@ -162,17 +199,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vidishaa9&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vidishaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
 
-<br/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidishaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
-<img src="https://streak-stats.demolab.com?user=vidishaa9&theme=tokyonight&hide_border=true" />
+<br><br>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidishaa9&theme=tokyonight&hide_border=true&layout=compact" />
+<img src="https://streak-stats.demolab.com?user=vidishaa9&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+
 
 
 
